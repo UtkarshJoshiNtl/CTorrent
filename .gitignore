@@ -1,0 +1,11 @@
+# Build
+build/
+*.o
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
